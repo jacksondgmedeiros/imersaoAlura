@@ -10,3 +10,30 @@ após instalar, você deve ter um arquivo com o json de sua api
 e o comando para inicializar é:
 
 json-server --watch api-artists/artists.json --port 3000
+
+
+REACT
+
+para criar um projeto: npx create-react-app nomeProjeto
+
+
+após criar o proejto, os rquivos ficam na src
+e o projeto principal, App.js
+
+
+
+para iniciar o projeto: npm start dentro da pasta
+
+
+ao inve´s de class, usa className
+
+
+depois, é feito de componentes, nesse caso, tem uns exemplos na pasta Header dentro de src do projeto
+
+e para chamar o componente, você coloca o nome da função que foi criado. 
+
+
+resummindo, o react é feito para modulos, é baseado em html, css e js. uma juntando com outra
+
+
+ o projeto deu um erro, tem que verificar o que acontece, desde a criação, então é um erro que falta módulo e não do projeto criado 
